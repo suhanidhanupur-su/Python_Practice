@@ -12,3 +12,7 @@ for i in string:
     my_max_val.append(numbers)
 result = max_max_val(my_max_val)
 print(f"Largest number -> {result}")
+
+
+list1 = [10, 20, 30]
+list1.pop()
